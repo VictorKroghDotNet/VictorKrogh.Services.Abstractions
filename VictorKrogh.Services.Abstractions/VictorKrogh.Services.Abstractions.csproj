@@ -18,7 +18,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<PackageProjectUrl>https://github.com/VictorKroghDotNet/VictorKrogh.Extensions.Dapper</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/VictorKroghDotNet/VictorKrogh.Services.Abstractions</PackageProjectUrl>
 	</PropertyGroup>
 
 </Project>
